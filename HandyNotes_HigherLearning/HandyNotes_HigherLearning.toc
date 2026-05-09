@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: HandyNotes_HigherLearning
+## Notes: Shows the books you still need to read for the Higher Learning achievement.
+## Notes-ruRU: Показывает книги, которые необходимо прочитать для выполнения достижения «Ученье – свет!».
+## Author: Bianconeri
+## Version: 1.3.0
+## X-Category: Map & Minimap
+## SavedVariables: HandyNotes_HigherLearningDB
+## Dependencies: HandyNotes
+
+Locale-enUS.lua
+Locale-ruRU.lua
+Data.lua
+Core.lua
