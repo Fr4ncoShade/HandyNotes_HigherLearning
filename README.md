@@ -11,3 +11,4 @@ You can customize the addon via the HandyNotes options menu:
 - Icon size (scale)
 - Icon transparency (alpha)
 - Show all icons, even if you have already read the books
+[![HNHL.jpg](https://i.ibb.co/tPzfpWWS/HNHL.jpg)](https://postimg.cc/rRC30MfH)
